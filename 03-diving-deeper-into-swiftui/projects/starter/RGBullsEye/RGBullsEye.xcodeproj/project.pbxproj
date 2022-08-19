@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		98D3CECA28AFD0D1001DB780 /* NeuButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98D3CEC928AFD0D1001DB780 /* NeuButtonStyle.swift */; };
 		98FF0FF128AFC808008F03A0 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98FF0FF028AFC808008F03A0 /* Launch Screen.storyboard */; };
 		98FF0FF328AFCA19008F03A0 /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98FF0FF228AFCA19008F03A0 /* ViewExtension.swift */; };
 		CD25DEBF253C26A200A218D4 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD25DEBE253C26A200A218D4 /* Game.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		98D3CEC928AFD0D1001DB780 /* NeuButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeuButtonStyle.swift; sourceTree = "<group>"; };
 		98FF0FF028AFC808008F03A0 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		98FF0FF228AFCA19008F03A0 /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
 		CD25DEBE253C26A200A218D4 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				CD405EFE2536AA720062B1CC /* Assets.xcassets */,
 				CD405F032536AA720062B1CC /* Info.plist */,
 				CD405F002536AA720062B1CC /* Preview Content */,
+				98D3CEC928AFD0D1001DB780 /* NeuButtonStyle.swift */,
 			);
 			path = RGBullsEye;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				CD25DEBF253C26A200A218D4 /* Game.swift in Sources */,
 				CD405EFB2536AA700062B1CC /* RGBullsEyeApp.swift in Sources */,
 				98FF0FF328AFCA19008F03A0 /* ViewExtension.swift in Sources */,
+				98D3CECA28AFD0D1001DB780 /* NeuButtonStyle.swift in Sources */,
 				CD25DEC3253C279400A218D4 /* RGB.swift in Sources */,
 				CD25DEC6253C299400A218D4 /* ColorExtension.swift in Sources */,
 				CDF0F612255793D500C3DE7E /* ColorCircle.swift in Sources */,
