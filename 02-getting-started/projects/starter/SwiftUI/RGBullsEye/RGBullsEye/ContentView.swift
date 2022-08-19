@@ -92,12 +92,3 @@ struct ColorSlider: View {
         .padding(.horizontal)
     }
 }
-
-struct ColorCircle: View {
-    
-    var rgb: RGB
-    
-    var body: some View {
-        Circle().fill(Color(rgbStruct: rgb))
-    }
-}
