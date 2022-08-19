@@ -43,7 +43,7 @@ extension View {
                 color: .shadow, radius: radius, x: offset, y: offset)
     }
     
-    func sountEastShadow (radius: CGFloat = 16, offset: CGFloat = 6)
+    func southEastShadow (radius: CGFloat = 16, offset: CGFloat = 6)
     -> some View {
         return self
             .shadow(
